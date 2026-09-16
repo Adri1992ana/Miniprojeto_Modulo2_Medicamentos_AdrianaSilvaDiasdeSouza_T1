@@ -188,6 +188,8 @@ Print da página final: imagens/dashboard_final.png
 
 Link do repositório no GitHub: https://github.com/Adri1992ana/Miniprojeto_Modulo2_Medicamentos_AdrianaSilvaDiasdeSouza_T1.git
 
+Link para o vídeo: https://www.loom.com/share/f3c0133195aa4e68b3de9258ddf8e36e
+
 Design do dashboard: página única (16:9), com fundo customizado
 definindo as zonas de KPIs, filtros e os visuais, garantindo
 consistência visual e hierarquia clara (6 blocos de visuais, totalizando
